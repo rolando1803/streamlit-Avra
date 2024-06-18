@@ -19,6 +19,19 @@
 ![image](https://github.com/rolando1803/streamlit-Avra/assets/55965131/806ed5f0-aa9d-4eec-840d-4b5063b0f6e8)
 ![image](https://github.com/rolando1803/streamlit-Avra/assets/55965131/21f780e6-f5ae-456b-b93c-08e474b92a48)
 ![image](https://github.com/rolando1803/streamlit-Avra/assets/55965131/81c94d1c-7f76-44b8-b01d-145958cceee4)
+![image](https://github.com/rolando1803/streamlit-Avra/assets/55965131/09b748c5-b8d7-48aa-b8da-6473ae7e439e)
+![image](https://github.com/rolando1803/streamlit-Avra/assets/55965131/117773f4-47b3-48b2-a027-a285836f7bea)
+![image](https://github.com/rolando1803/streamlit-Avra/assets/55965131/70ae3ef0-6f3b-47b7-9296-cd36d9239c61)
+![image](https://github.com/rolando1803/streamlit-Avra/assets/55965131/88da121f-92ff-4f1c-9fd0-362b623654c6)
+![image](https://github.com/rolando1803/streamlit-Avra/assets/55965131/c9452ff1-ac29-4deb-ae2f-d3514f02c1fc)
+![image](https://github.com/rolando1803/streamlit-Avra/assets/55965131/95f2af09-4a7f-4079-a242-4292e24e29ff)
+![image](https://github.com/rolando1803/streamlit-Avra/assets/55965131/7c11d79c-8872-48b0-9099-f630b740c8d8)
+![image](https://github.com/rolando1803/streamlit-Avra/assets/55965131/247eb12e-2d6b-4fb4-9c83-e3f3a91209aa)
+![image](https://github.com/rolando1803/streamlit-Avra/assets/55965131/6136a76f-04db-4358-a4bc-7374086a9227)
+![image](https://github.com/rolando1803/streamlit-Avra/assets/55965131/b608a63c-980e-472c-80e8-9be2538db9e3)
+![image](https://github.com/rolando1803/streamlit-Avra/assets/55965131/8fce792e-6910-4159-bed9-5270e59af9b1)
+![image](https://github.com/rolando1803/streamlit-Avra/assets/55965131/2477103d-f6f0-470d-a1d0-a5608487581d)
+![image](https://github.com/rolando1803/streamlit-Avra/assets/55965131/19ce4e2e-6ea6-458b-a059-b38a18f72b4e)
 
 
 
